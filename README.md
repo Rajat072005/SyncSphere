@@ -1,3 +1,6 @@
+*** Can be used in both light and dark theme according to preferences
+
+
 SyncSphere guides new users through a 3-step onboarding flow (Personal → Business → Preferences) and then presents a dashboard summarizing their inputs. This project demonstrates:
 
 State management using Redux Toolkit slices & async thunks
