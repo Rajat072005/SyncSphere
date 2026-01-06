@@ -1,4 +1,4 @@
-*** Can be used in both light and dark theme according to preferences and responsive for both laptops and mobiles 
+Deployed Link : https://intern-project-virid-nu.vercel.app/step1
 https://www.loom.com/share/cb909f3c9d0b42bd8f1384bb79ac8d20?sid=0890b358-cff9-4479-8af5-6f599f094306 [Loom Video]
 
 
